@@ -214,4 +214,3 @@ The current prototype has limited user testing. The survey result is exploratory
 
 - [Live prototype](https://taskmates.base44.app)
 - [Project README](../README.md)
-- [Development playbook](taskmates-case-study-playbook.md)

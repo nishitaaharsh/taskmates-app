@@ -27,7 +27,6 @@ The product is designed around a core principle:
 
 - **Live prototype:** [Taskmates](https://taskmates.base44.app)
 - **Product case study:** [docs/taskmates-case-study.md](docs/taskmates-case-study.md)
-- **Development playbook:** [docs/taskmates-case-study-playbook.md](docs/taskmates-case-study-playbook.md)
 - **Demo video:** Coming soon
 
 ## Hackathon result
@@ -124,8 +123,6 @@ For each extracted task, the system should retain the original source sentence, 
 ```text
 docs/
   taskmates-case-study.md
-  taskmates-case-study-playbook.md
-  google-apm-outreach-templates.md
 README.md
 ```
 
@@ -135,7 +132,7 @@ Taskmates was created to explore how AI can make teamwork more visible without t
 
 ## Author
 
-[Your name] · [LinkedIn URL] · [Contact email]
+[Nishita Harsh](https://www.linkedin.com/in/nishitaharsh/)
 
 ## License
 
