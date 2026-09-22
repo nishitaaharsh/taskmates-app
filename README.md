@@ -4,6 +4,8 @@
 
 **Hackathon result:** Winner, MEMPC Hackathon Prelims 2026
 
+**Built by:** [Nishita Harsh](https://www.linkedin.com/in/nishitaharsh/)
+
 ## Product overview
 
 Group projects often create ambiguity around deliverables, ownership, and progress. Students may use chat and task tools, but those tools do not understand an assignment brief, account for task complexity, or help teams identify delivery risk early.

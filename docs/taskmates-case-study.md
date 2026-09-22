@@ -7,6 +7,8 @@
 **Build time:** One day  
 **Prototype:** [taskmates.base44.app](https://taskmates.base44.app)
 
+**Built by:** [Nishita Harsh](https://www.linkedin.com/in/nishitaharsh/)
+
 ## Executive summary
 
 University group projects often fail quietly. The assignment may be clear to the professor, but the student team still has to translate it into deliverables, divide the work, coordinate deadlines, and determine whether the workload is balanced. Existing chat and task tools record activity, but they do not understand an assignment brief or help a team reason about task complexity.
